@@ -1,0 +1,85 @@
+{  
+    "KeyBindings":{  
+        "Button 1": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}{SHIFTDOWN}b{SHIFTUP}{CTRLUP}" 
+        },
+        "Button 2": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}{F12}{CTRLUP}" 
+        },
+        "Button 3": {
+            "Type": 0,
+            "Value": "{F12}" 
+        },
+        "Button 4": {
+            "Type": 0,
+            "Value": "{SHIFTDOWN}{ALTDOWN}p{ALTUP}{SHIFTUP}" 
+        },
+        "Button 5": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}rr{CTRLUP}" 
+        },
+        "Button 6": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}ri{CTRLUP}" 
+        },
+        "Button 7": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}rm{CTRLUP}" 
+        },
+        "Button 8": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}rv{CTRLUP}" 
+        },
+        "Button 9": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}re{CTRLUP}" 
+        },
+        "Button 10": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}-{CTRLUP}" 
+        },
+        "Button 11": {
+            "Type": 0,
+            "Value": "{CTRLDOWN}{SHIFTDOWN}-{SHIFTUP}{CTRLUP}" 
+        },
+        "Button 12": {
+            "Type": 0,
+            "Value": "{ALTDOWN}{F12}{ALTUP}" 
+        },
+        "Button 13": {
+            "Type": 0,
+            "Value": "{SHIFTDOWN}{F12}{SHIFTUP}" 
+        },
+        "Button 14": {
+            "Type": 0,
+            "Value": "{F10}" 
+        },
+        "Button 15": {
+            "Type": 0,
+            "Value": "{F11}" 
+        },
+        
+   },
+
+   "LabelBindings":{  
+       "Button 1": "Build Solution",
+       "Button 2": "Go To Implementation",
+       "Button 3": "Go To Definition",
+       "Button 4": "Reattach",
+       "Button 5": "Rename",
+       "Button 6": "Extract Interface",
+       "Button 7": "Extract Method",
+       "Button 8": "Change Signature",
+       "Button 9": "Encapsulate Field",
+       "Button 10": "Navigate Back",
+       "Button 11": "Navigate Fwd",
+       "Button 12": "Peek Definition",
+       "Button 13": "Find References",
+       "Button 14": "Step Over",
+       "Button 15": "Step Into"
+   },
+
+   "Program":"C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\Common7\\IDE\\devenv.exe"
+}

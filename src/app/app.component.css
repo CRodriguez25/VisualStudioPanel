@@ -1,0 +1,41 @@
+.navbar {
+    height: 10% !important;
+    margin-bottom: 2% !important;
+    padding: 1%;
+    background-color: rgb(45, 45, 48);
+}
+
+.content {
+    padding-top: calc(env(safe-area-inset-top) + 5px);
+    padding-right: calc(env(safe-area-inset-right) + 5px);
+    padding-bottom: calc(env(safe-area-inset-bottom) + 5px);
+    padding-left: calc(env(safe-area-inset-left) + 5px);
+    height: 85%;
+}
+
+
+.panel-window {
+    background-color: rgb(30, 30, 30);
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    overflow: hidden;
+}
+
+img {
+    height: 100%;
+    margin-left: calc(env(safe-area-inset-left) + 5px);
+}
+
+a { 
+    text-align: center !important;
+    vertical-align: middle;
+    display: block;
+}
+
+.navbar-text {
+    color: white;
+    margin-right: calc(env(safe-area-inset-right) + 5px);
+}

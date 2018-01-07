@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+@font-face {
+    font-family: vsfont;
+    src: url(assets/Font/Ubuntu-B.ttf);
+}
+
+body {
+    font-family: vsfont;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 !important;
+}
+
+html, body {
+	position: fixed;
+	overflow: hidden;
+}
